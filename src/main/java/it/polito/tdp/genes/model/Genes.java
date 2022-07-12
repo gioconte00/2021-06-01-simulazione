@@ -1,6 +1,6 @@
 package it.polito.tdp.genes.model;
 
-public class Genes {
+public class Genes{
 	
 	private String geneId;
 	private String essential;
@@ -67,6 +67,7 @@ public class Genes {
 		return this.geneId;
 	}
 
+	
 
 	
 	
